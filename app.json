@@ -20,16 +20,16 @@
             "value": "True"
         },
         "APP_NAME": {
-            "description": "Copy-Paste the app name that you just typed above."
+            "description": "Anirudh file stream"
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org"
+            "description": "13689511"
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org"
+            "description": "c4527c8e214ef2450e352ce3a24a7454"
         },
         "BOT_TOKEN": {
-            "description": "Get this value from @BotFather"
+            "description": "5423837186:AAGh6_NwflISpuxd50NOL2OFPCGUCnVwfU8"
         },
         "BIN_CHANNEL": {
             "description": "The BIN Channel ID. Read the readme for more info about this var"
@@ -52,7 +52,7 @@
   
         },
         "OWNER_ID": {
-            "description": "Your Telegram User ID"
+            "description": "1301592091"
         },
         "BANNED_CHANNELS": {
             "description": "Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with Space.",
